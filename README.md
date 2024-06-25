@@ -13,6 +13,7 @@
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
+* [Contributors](#contributors) 
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -34,25 +35,19 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- Numpy - version '1.23.5'
+- Pandas - version '1.5.3'
+- Seaborn - version '0.12.2'
+- Matplotlib - version '3.7.1'
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by UpGrad(IIITB) in AI/ML Executive Post Graduate course as a case study
+- This project was based on (https://learn.upgrad.com/course/5800/segment/50366/308501/935805/4670514).
 
+## Contributors
+- Ravi Shankar Kushwaha
+- Boorsu Ramu
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@RavishankarDuMCA10] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
