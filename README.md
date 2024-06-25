@@ -35,13 +35,34 @@
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+### Univariate Analysis
+- The number of defualted loan is 6 times less than the number of fully paid loan.
+- The number of 36 month term loan is 3.5 times higher than 60 months loans, It shows that peolple are taking more loan for sorter duration.
+- People have taken most of loan with 5 to 7.5 and 10 to 15 percent Interest Rate.
+- People are mostly belongs to 10 years of employment. It shows that these people are most capable to take loans.
+- Loans are taken by mostly lower income(20000 to 90000) group people.
+- Most of the loans are with grade A and B grades. It means people taking higher grade loans.
+- Mostly loans are taken by the people, those don't own Home and they are on Mortgage or Rent.
+- 50 % of people and above are verified by lending company or source verified.
+- Most of people are taking loan for either credit card and dept consolidation.
+- Majority of the people don't have any public record for Bankruptcy
+- Majority of the people have very large dept compared to their income. Mostly having 8 to 22 DTI ratio.
+- It is showing that loan count is increasing towards year ends. As year progress, loan counts increase in every month compare to last month.
+- It is showing that loan approval increasing exponential rate. Increasing every year compare to previous year.
+### Bivariate Analysis
+- Income group having income 50000 and less are more likely to default than higher income groups.
+- As Interest Rate of loan increases default ratio for loans is also increasing.
+- The employees having 10+ years of experiance are less likely to default and higher chance to fully paid the loans.
+- It shows that the Grade A(Sub Grade) has higher risk and the Grade(Sub Grade) G has lower risk. We can say higher grade(Sub Grade) has higher rate of default and lower grade(Sub Grade) has lower rate of default.
+- Fully Paid and Charged Off are almost same for 25% but Charged Off is getting higher after 50% and above than Fully Paid. It means higher the loan amount higher chances of getting defaulted.
+- People are making defaulter with Loan amount 10000 and less with None Home ownership. So, Bank should avoid giving loan these people.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+### Driving factors which can be used to predict about chances of loan default are:
+- Income group
+- Interest Rate
+- Grade
+- Home ownership
+- DTI
 
 ## Technologies Used
 - Numpy - version '1.23.5'
